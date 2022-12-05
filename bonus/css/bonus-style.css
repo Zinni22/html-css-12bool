@@ -1,0 +1,28 @@
+/* REGOLE FLEX */
+.start{
+    justify-content: flex-start;
+}
+.center{
+    justify-content: center;
+}
+.end{
+    justify-content: flex-end;
+}
+.middle{
+    align-items: center;
+}
+.bottom{
+    align-items:flex-end;
+}
+.around{
+    justify-content: space-around;
+}
+.between{
+    justify-content: space-between;
+}
+
+
+/* STYLE */
+.big{
+    height:80px;
+}
