@@ -1,0 +1,28 @@
+/* GENERALI */
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding-top:50px;
+}
+
+/* COLORI */
+.black{
+    background-color: black;
+}
+.pink{
+    background-color: pink;
+}
+.purple{
+    background-color: palevioletred;
+}
+.white{
+    background-color: white;
+}
+.orange{
+    background-color: orange;
+}
+
+/* BOX */
+.box{
+    height: 25px;
+}
